@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="مقال 2">
+  <rect width="1200" height="900" fill="#111827"/>
+  <rect x="140" y="140" width="920" height="620" rx="30" fill="#0f172a" stroke="#3b82f6" stroke-width="8"/>
+  <rect x="250" y="230" width="700" height="140" rx="16" fill="#dbeafe"/>
+  <rect x="250" y="420" width="700" height="150" rx="16" fill="#f8fafc"/>
+  <text x="600" y="315" text-anchor="middle" font-size="58" font-weight="700" fill="#0f172a" font-family="Tahoma, Arial, sans-serif">مطبوعة</text>
+  <text x="600" y="515" text-anchor="middle" font-size="44" fill="#0f172a" font-family="Tahoma, Arial, sans-serif">طباعة عالية الجودة</text>
+</svg>

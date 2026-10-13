@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-label="مقال 3">
+  <rect width="1200" height="900" fill="#111827"/>
+  <circle cx="600" cy="450" r="270" fill="#1d4ed8"/>
+  <rect x="400" y="250" width="400" height="400" rx="28" fill="#f8fafc"/>
+  <text x="600" y="480" text-anchor="middle" font-size="80" font-weight="700" fill="#0f172a" font-family="Tahoma, Arial, sans-serif">Gift</text>
+</svg>
